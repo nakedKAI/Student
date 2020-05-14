@@ -1,0 +1,7 @@
+这是一个简单的helloworldC语言代码，刚用GitHub，想简单试一试！
+#include<stdio.h>
+int main()
+{
+  printf("hello world\n");
+  return 0;
+}
